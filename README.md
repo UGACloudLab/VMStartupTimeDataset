@@ -56,7 +56,7 @@ This repository contains measurement data of VM startup time from [AWS](https://
   - **Provider**: AWS or Google
   - **Region**: AWS region or Google cloud region
   - **Zone**: (Availability) ZOne in a Region
-  - **Purchase Model**: ondemand or spot (for AWS), ondemand or preemptible (for Google)
+  - **Purchase Model**: O: On-demand, S: Spot (AWS), P: Preemptible (Google)
   - **OS**: Linux (Ubuntu 18.04 LTS) or Windows (Server 2016)
   - **Image Size**: 32GB - 256GB
   - **Startup Type**: Cold or Warm
