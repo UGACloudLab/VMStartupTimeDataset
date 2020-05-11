@@ -55,10 +55,10 @@ This repository contains measurement data of VM startup time from [AWS](https://
   - **VM Type**: the name of VM type. e.g., t2.nano
   - **Provider**: AWS or Google
   - **Region**: AWS region or Google cloud region
-  - **Zone**: (Availability) ZOne in a Region
+  - **Zone**: (Availability) Zone in a Region
   - **Purchase Model**: O: On-demand, S: Spot (AWS), P: Preemptible (Google)
   - **OS**: Linux (Ubuntu 18.04 LTS) or Windows (Server 2016)
-  - **Image Size**: 32GB - 256GB
+  - **Image Size**: Integer, 32GB - 256GB
   - **Startup Type**: Cold or Warm
   - **Measurement Datatime**: Measurement date and time (based on local time)
   - **Startup Time**: Startup Time (Second)
