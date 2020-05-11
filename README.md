@@ -59,7 +59,7 @@ This repository contains measurement data of VM startup time from [AWS](https://
   - **Purchase Model**: O: On-demand, S: Spot (AWS), P: Preemptible (Google)
   - **OS**: Linux (Ubuntu 18.04 LTS) or Windows (Server 2016)
   - **Image Size**: Integer, 32GB - 256GB
-  - **Startup Type**: Cold or Warm
+  - **Startup Type**: C: Cold Startup, W: Warm Startup
   - **Measurement Datatime**: Measurement date and time (based on local time)
   - **Startup Time**: Startup Time (Second)
   
