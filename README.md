@@ -63,3 +63,4 @@ This repository contains measurement data of VM startup time from [AWS](https://
   - **Measurement Datatime**: `YYYY-MM-DD-HH:MM:SS`, Measurement date and time (based on local time)
   - **Startup Time**: Startup Time (Second)
   
+## Publications
