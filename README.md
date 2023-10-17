@@ -1,4 +1,4 @@
-# Overview
+## Overview
 
 This repository contains measurement data of VM startup time from [AWS](https://aws.amazon.com) and [Google Cloud](https://cloud.google.com/).
 * **Data Release Date: May, 2020**
