@@ -63,4 +63,6 @@ This repository contains measurement data of VM startup time from [AWS](https://
   - **Measurement Datatime**: `YYYY-MM-DD-HH:MM:SS`, Measurement date and time (based on local time)
   - **Startup Time**: Startup Time (Second)
   
-## Publications
+## Publication
+* Jianwei Hao, Ting Jiang, Wei Wang, and In Kee Kim, "*[An Empirical Analysis of VM Startup Times in Public IaaS Clouds.](https://ieeexplore.ieee.org/document/9582255)*," In 2021 IEEE Internatinoal Conference on Cloud Computing (CLOUD), September, 2021
+* Jianwei Hao, Ting Jiang, Wei Wang, and In Kee Kim, "*[An Empirical Analysis of VM Startup Times in Public IaaS Clouds: An Extended Report.](https://arxiv.org/abs/2107.03467)*," arXiv, 2021
